@@ -1,5 +1,5 @@
 <template>
-  <h1>CryptoGBoors website</h1>
+  <h1 class="text-red-500 font-bold">CryptoGBoors website</h1>
 </template>
 
 <script lang="ts">
@@ -20,7 +20,7 @@ body {
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
-  color: #2c3e50;
+  /* color: #2c3e50; */
   position: absolute;
   top: 50%;
   left: 50%;
